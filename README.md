@@ -22,30 +22,6 @@ Here is a list of my key projects:
 
 ---
 
-### **🌍 Global Sustainable Development Analysis**
-
-**Description:**
-In this project, I analyzed global indicators like economy, population, and CO₂ emissions to help a non-profit organization compare countries on key sustainability issues. I used the Global Country Information Dataset (2023), along with data on sustainable energy and migrants, to explore correlations between these factors.
-
-Key Questions Explored:
-
-Which countries lead in renewable energy and CO₂ reduction?
-
-How do countries rank in healthcare and education?
-
-Are there correlations between economy, health, and education?
-
-**Technologies Used:**
-
-SQL, Python (Pandas), and Tableau/Power BI for data analysis and visualization.**
-
-
-[📂 Project Files]() | [🔗 GitHub Repository](https://github.com/yourusername/airline-customer-segmentation)
-
-![Airline Customer Segmentation](./images/airline-segmentation-screenshot.png)
-
----
-
 ### **🏨 Hotel Reviews Analysis for Sustainable Tourism**
 
 **Description:**
@@ -62,6 +38,30 @@ How can data-driven insights guide strategic decisions?
 **Technologies Used:**
 
 Python (Pandas, NLP libraries)
+
+[📂 Project Files]() | [🔗 GitHub Repository](https://github.com/VeronicaCrisafio/)
+
+![Airline Customer Segmentation](./images/airline-segmentation-screenshot.png)
+
+---
+
+### **🌍 Global Sustainable Development Analysis**
+
+**Description:**
+In this project, I analyzed global indicators like economy, population, and CO₂ emissions to help a non-profit organization compare countries on key sustainability issues. I used the Global Country Information Dataset (2023), along with data on sustainable energy and migrants, to explore correlations between these factors.
+
+Key Questions Explored:
+
+Which countries lead in renewable energy and CO₂ reduction?
+
+How do countries rank in healthcare and education?
+
+Are there correlations between economy, health, and education?
+
+**Technologies Used:**
+
+SQL and Canva for presentation
+
 
 [📂 Project Files]() | [🔗 GitHub Repository](https://github.com/yourusername/airline-customer-segmentation)
 
