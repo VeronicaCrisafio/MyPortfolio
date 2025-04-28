@@ -5,13 +5,24 @@ Welcome to my portfolio!
 Here you can find some of my projects as a Junior Data Analyst, developed during my academic and professional journey.  
 As a Junior Data Analyst passionate about harnessing the power of data, I’ve worked on a variety of projects, using tools like **Excel**, **SQL**, **Python**, **Tableau**.
 
+---
+
+## 🚀 About Me
+
+I’m a **Junior Data Analyst** passionate about providing **data-driven solutions** in **Aviation**, **Leisure**, **Real Estate**, and **Healthcare**, with a particular focus on minimizing environmental impact. Before transitioning into data analysis, I worked as a **Business Developer**, helping businesses improve their operations and growth strategies. I now focus on data analysis to create practical and strategic solutions.
+
+- LinkedIn: https://www.linkedin.com/in/crisafio/
+- Email: bizcrisafio@gmail.com
+
+---
+
 ## 📊 Projects
 
 Here is a list of my key projects:
 
 ---
 
-### 📍 **🌍 Global Sustainable Development Analysis**
+### **🌍 Global Sustainable Development Analysis**
 
 **Description:**
 In this project, I analyzed global indicators like economy, population, and CO₂ emissions to help a non-profit organization compare countries on key sustainability issues. I used the Global Country Information Dataset (2023), along with data on sustainable energy and migrants, to explore correlations between these factors.
@@ -35,6 +46,109 @@ SQL, Python (Pandas), and Tableau/Power BI for data analysis and visualization.*
 
 ---
 
+### **🏨 Hotel Reviews Analysis for Sustainable Tourism**
+
+**Description:**
+In this project, I analyzed 1,000 hotels' reviews, locations, and ratings to help an eco-hotel team understand key success factors in the hospitality industry. The goal was to identify which topics and keywords correlate most with higher ratings and suggest strategies for improving guest satisfaction.
+
+Key Questions Explored:
+
+What concepts are linked to a higher hotel rating?
+
+Which aspects should an eco-hotel focus on to increase its success?
+
+How can data-driven insights guide strategic decisions?
+
+**Technologies Used:**
+
+Python (Pandas, NLP libraries)
+
+[📂 Project Files]() | [🔗 GitHub Repository](https://github.com/yourusername/airline-customer-segmentation)
+
+![Airline Customer Segmentation](./images/airline-segmentation-screenshot.png)
+
+---
+
+### **🌍 Global Tourism Trends Analysis**
+
+**Description:**
+In this project, I analyzed global tourism data (inbound and outbound flows, tourist spending) from the World Bank (2019) to help a responsible tour operator identify emerging markets and strengthen its presence in high-traffic destinations.
+I designed an interactive dashboard on Tableau Public, showcasing key KPIs, trends, and strategic insights for stakeholders.
+
+Key Questions Explored:
+
+Which regions offer the greatest growth opportunities?
+
+Where is sustainable tourism gaining momentum?
+
+How can data help refine market expansion strategies?
+
+**Technologies Used:**
+
+Tableau Public for dashboard creation.
+
+Tableau Prep for data preparation and cleaning.
+
+📂 Project Files | 🔗 GitHub Repository
+
+---
+
+### **🛒 Sustainable Supermarket Analytics and Predictive Modeling**
+
+**Description:**
+Developed for a university project, this analysis focused on a sustainability-driven Italian supermarket chain.
+The project aimed to uncover insights from sales data and apply advanced analytics and introductory machine learning models to drive better business decisions.
+
+Key Objectives:
+
+Identify top-performing cities and high-value product categories.
+
+Explore the impact of customer demographics on sales.
+
+Build a machine learning model to predict purchase profitability.
+
+Classify apple varieties based on quality indicators to optimize sales.
+
+Forecast future profit trends to support strategic planning.
+
+**Technologies Used:**
+
+Python (Pandas, Scikit-learn)
+
+Machine Learning for predictive modeling
+
+📂 Project Files | 🔗 GitHub Repository
+
+---
+
+###  **🌐 Metaverse Travel Agency Analysis**
+
+**Description:**
+In this project I explored the emerging field of metaverse travel.
+The virtual travel agency specializes in immersive, eco-friendly travel experiences within the metaverse. 
+Users can visit destinations around the world without leaving their homes, experiencing luxury resorts and iconic landmarks.
+
+Key Objectives:
+
+Perform an Exploratory Data Analysis (EDA) using Python to understand user behavior.
+
+Create an interactive Tableau dashboard showcasing insights and user patterns.
+
+Design user personas based on virtual travel experiences.
+
+Propose strategies to optimize virtual travel packages.
+
+**Technologies Used:**
+
+Python for data analysis 
+
+Tableau for interactive data visualization
+
+AI tools explored for refining analysis and strategies
+
+📂 Project Files | 🔗 GitHub Repository
+---
+
 ## 🛠️ Tools & Technologies
 
 - **Data Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -42,15 +156,6 @@ SQL, Python (Pandas), and Tableau/Power BI for data analysis and visualization.*
 - **Data Visualization**: Tableau, Power BI (coming soon!)
 - **Excel**: Data Cleaning, Pivot Tables, Charts
 - **Machine Learning**: Scikit-learn
-
----
-
-## 🚀 About Me
-
-I’m a **Junior Data Analyst** passionate about providing **data-driven solutions** in **Aviation**, **Leisure**, **Real Estate**, and **Healthcare**. Before transitioning into data analysis, I worked as a **Business Developer**, helping businesses improve their operations and growth strategies. I now focus on data analysis to create practical and strategic solutions.
-
-- LinkedIn: https://www.linkedin.com/in/crisafio/
-- Email: bizcrisafio@gmail.com
 
 ---
 
