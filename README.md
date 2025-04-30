@@ -117,7 +117,7 @@ Python (Pandas, Scikit-learn)
 
 Machine Learning for predictive modeling
 
-[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/VeronicaCrisafioPython.ipynb)
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/b6d26b53106c8fc6ced06605b4d37ff4ed24863b/VeronicaCrisafio_Progetto_Advanced_Analytics.ipynb))
 
 ---
 
