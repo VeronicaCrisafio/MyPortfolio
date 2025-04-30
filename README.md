@@ -48,7 +48,7 @@ Python (Pandas, NLP libraries)
 ### **🌍 Global Sustainable Development Analysis**
 
 **Description:**
-In this project, I analyzed global indicators like economy, population, and CO₂ emissions to help a non-profit organization compare countries on key sustainability issues. I used the Global Country Information Dataset (2023), along with data on sustainable energy and migrants, to explore correlations between these factors.
+In this project, I analyzed global indicators like economy, population, and CO₂ emissions to help a non-profit organization compare countries on key sustainability issues. I used the Global Country Information Dataset (2023), along with a second table I personally chose: I found it particularly interesting due to the data provided, which also refer to the same year. It contains rankings and detailed indicators from the 2023 Legatum Prosperity Index, which assesses and ranks countries based on various dimensions of prosperity and development.
 
 Key Questions Explored:
 
@@ -62,10 +62,6 @@ Are there correlations between economy, health, and education?
 
 SQL and Canva for presentation
 
-
-[📂 Project Files]() | [🔗 GitHub Repository](https://github.com/yourusername/airline-customer-segmentation)
-
-![Airline Customer Segmentation](./images/airline-segmentation-screenshot.png)
 
 ---
 
@@ -117,7 +113,7 @@ Python (Pandas, Scikit-learn)
 
 Machine Learning for predictive modeling
 
-[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/b6d26b53106c8fc6ced06605b4d37ff4ed24863b/VeronicaCrisafio_Progetto_Advanced_Analytics.ipynb))
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/b6d26b53106c8fc6ced06605b4d37ff4ed24863b/VeronicaCrisafio_Progetto_Advanced_Analytics.ipynb)
 
 ---
 
@@ -146,8 +142,7 @@ Tableau for interactive data visualization
 
 AI tools explored for refining analysis and strategies
 
-[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/VeronicaCrisafioPython.ipynb)
----
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/Progetto%20Finale%20Data%20Analysis%20di%20Veronica%20Crisafio.pdf)
 
 ## 🛠️ Tools & Technologies
 
