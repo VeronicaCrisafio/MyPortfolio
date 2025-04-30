@@ -89,7 +89,7 @@ Tableau Public for dashboard creation.
 
 Tableau Prep for data preparation and cleaning.
 
-[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/VeronicaCrisafioPython.ipynb)
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/2b388cc176f03b30cab9eaaac0b44b5908b6a6e3/Progetto%20Data%20Visualization%20con%20Tableau%20di%20Veronica%20Crisafio.pdf)
 
 ---
 
