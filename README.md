@@ -76,8 +76,9 @@ AI tools explored for refining analysis and strategies
 ### **🌍 Global Tourism Trends Analysis**
 
 **Description:**
-In this project, I analyzed global tourism data (inbound and outbound flows, tourist spending) from the World Bank (2019) to help a responsible tour operator identify emerging markets and strengthen its presence in high-traffic destinations.
-I designed an interactive dashboard on Tableau Public, showcasing key KPIs, trends, and strategic insights for stakeholders.
+In this project, I analyze open datasets from the World Bank and Kaggle, covering international tourism arrivals, tourism expenditures, CO2 emissions from international flights, and environmental monitoring indicators.
+The objective is to support a responsible tour operator in identifying emerging markets and strengthening its presence in high-traffic destinations.
+I designed an interactive dashboard on Tableau Public, highlighting key KPIs, trends, and strategic insights for stakeholders.
 
 Key Questions Explored:
 
