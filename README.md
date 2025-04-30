@@ -39,9 +39,9 @@ How can data-driven insights guide strategic decisions?
 
 Python (Pandas, NLP libraries)
 
-[📂 Project Files]() | [🔗 GitHub Repository](https://github.com/VeronicaCrisafio/MyPortfolio/VeronicaCrisafioPython.jpynb)
 
-![Airline Customer Segmentation](./images/airline-segmentation-screenshot.png)
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/VeronicaCrisafioPython.ipynb)
+
 
 ---
 
