@@ -117,7 +117,7 @@ Python (Pandas, Scikit-learn)
 
 Machine Learning for predictive modeling
 
-📂 Project Files | 🔗 GitHub Repository
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/VeronicaCrisafioPython.ipynb)
 
 ---
 
@@ -146,7 +146,7 @@ Tableau for interactive data visualization
 
 AI tools explored for refining analysis and strategies
 
-📂 Project Files | 🔗 GitHub Repository
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/VeronicaCrisafioPython.ipynb)
 ---
 
 ## 🛠️ Tools & Technologies
@@ -163,5 +163,5 @@ AI tools explored for refining analysis and strategies
 
 Feel free to reach out to me for collaboration or if you have any questions regarding my projects.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://linkedin.com/in/yourlinkedin)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin)](https://www.linkedin.com/in/crisafio/)
 [![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=social&logo=github)](https://github.com/yourusername)
