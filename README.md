@@ -11,7 +11,7 @@ As a Junior Data Analyst passionate about harnessing the power of data, I’ve w
 
 I’m a **Junior Data Analyst** passionate about providing **data-driven solutions** in **Aviation**, **Leisure**, **Real Estate**, and **Healthcare**, with a particular focus on minimizing environmental impact. Before transitioning into data analysis, I worked as a **Business Developer**, helping businesses improve their operations and growth strategies. I now focus on data analysis to create practical and strategic solutions.
 
-- LinkedIn: [https://www.linkedin.com/in/crisafio/](https://www.linkedin.com/in/crisafio/)
+- 🔹 LinkedIn: [https://www.linkedin.com/in/crisafio/](https://www.linkedin.com/in/crisafio/)
 - 📫 Contact me: [bizcrisafio@gmail.com](mailto:bizcrisafio@gmail.com) 
 
 ---
