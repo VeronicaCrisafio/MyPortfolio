@@ -89,7 +89,7 @@ Tableau Public for dashboard creation.
 
 Tableau Prep for data preparation and cleaning.
 
-📂 Project Files | 🔗 GitHub Repository
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/VeronicaCrisafioPython.ipynb)
 
 ---
 
