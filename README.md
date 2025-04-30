@@ -42,27 +42,34 @@ Python (Pandas, NLP libraries)
 
 [<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/VeronicaCrisafioPython.ipynb)
 
-
 ---
 
-### **🌍 Global Sustainable Development Analysis**
+###  **🌐 Metaverse Travel Agency Analysis**
 
 **Description:**
-In this project, I analyzed global indicators like economy, population, and CO₂ emissions to help a non-profit organization compare countries on key sustainability issues. I used the Global Country Information Dataset (2023), along with a second table I personally chose: I found it particularly interesting due to the data provided, which also refer to the same year. It contains rankings and detailed indicators from the 2023 Legatum Prosperity Index, which assesses and ranks countries based on various dimensions of prosperity and development.
+In this project I explored the emerging field of metaverse travel.
+The virtual travel agency specializes in immersive, eco-friendly travel experiences within the metaverse. 
+Users can visit destinations around the world without leaving their homes, experiencing luxury resorts and iconic landmarks.
 
-Key Questions Explored:
+Key Objectives:
 
-Which countries lead in renewable energy and CO₂ reduction?
+Perform an Exploratory Data Analysis (EDA) using Python to understand user behavior.
 
-How do countries rank in healthcare and education?
+Create an interactive Tableau dashboard showcasing insights and user patterns.
 
-Are there correlations between economy, health, and education?
+Design user personas based on virtual travel experiences.
+
+Propose strategies to optimize virtual travel packages.
 
 **Technologies Used:**
 
-SQL and Canva for presentation
+Python for data analysis 
 
-[<🔗 GitHub Repository>](
+Tableau for interactive data visualization
+
+AI tools explored for refining analysis and strategies
+
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/Progetto%20Finale%20Data%20Analysis%20di%20Veronica%20Crisafio.pdf)
 
 ---
 
@@ -87,6 +94,26 @@ Tableau Public for dashboard creation.
 Tableau Prep for data preparation and cleaning.
 
 [<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/2b388cc176f03b30cab9eaaac0b44b5908b6a6e3/Progetto%20Data%20Visualization%20con%20Tableau%20di%20Veronica%20Crisafio.pdf)
+
+---
+### **🌍 Global Sustainable Development Analysis**
+
+**Description:**
+In this project, I analyzed global indicators like economy, population, and CO₂ emissions to help a non-profit organization compare countries on key sustainability issues. I used the Global Country Information Dataset (2023), along with a second table I personally chose: I found it particularly interesting due to the data provided, which also refer to the same year. It contains rankings and detailed indicators from the 2023 Legatum Prosperity Index, which assesses and ranks countries based on various dimensions of prosperity and development.
+
+Key Questions Explored:
+
+Which countries lead in renewable energy and CO₂ reduction?
+
+How do countries rank in healthcare and education?
+
+Are there correlations between economy, health, and education?
+
+**Technologies Used:**
+
+SQL and Canva for presentation
+
+[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/Progetto%20SQL%20Lifestyle%20di%20Veronica%20Crisafio.pdf)
 
 ---
 
@@ -118,32 +145,6 @@ Machine Learning for predictive modeling
 
 ---
 
-###  **🌐 Metaverse Travel Agency Analysis**
-
-**Description:**
-In this project I explored the emerging field of metaverse travel.
-The virtual travel agency specializes in immersive, eco-friendly travel experiences within the metaverse. 
-Users can visit destinations around the world without leaving their homes, experiencing luxury resorts and iconic landmarks.
-
-Key Objectives:
-
-Perform an Exploratory Data Analysis (EDA) using Python to understand user behavior.
-
-Create an interactive Tableau dashboard showcasing insights and user patterns.
-
-Design user personas based on virtual travel experiences.
-
-Propose strategies to optimize virtual travel packages.
-
-**Technologies Used:**
-
-Python for data analysis 
-
-Tableau for interactive data visualization
-
-AI tools explored for refining analysis and strategies
-
-[<🔗 GitHub Repository>](https://github.com/VeronicaCrisafio/MyPortfolio/blob/main/Progetto%20Finale%20Data%20Analysis%20di%20Veronica%20Crisafio.pdf)
 
 ## 🛠️ Tools & Technologies
 
