@@ -149,7 +149,7 @@ Machine Learning for predictive modeling
 
 ## 🛠️ Tools & Technologies
 
-- **Data Analysis**: Python (Pandas, NumPy, Matplotlib, Seaborn)
+- **Data Analysis**: Python (Pandas, NumPy, NLP Libraries, Matplotlib, Seaborn)
 - **Databases**: SQL 
 - **Data Visualization**: Tableau, Power BI (coming soon!)
 - **Excel**: Data Cleaning, Pivot Tables, Charts
