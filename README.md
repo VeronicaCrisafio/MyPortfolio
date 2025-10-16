@@ -2,14 +2,16 @@
 
 Welcome to my portfolio!
 
-Here you can find some of my projects as a Junior Data Analyst, developed during my academic and professional journey.  
-As a Junior Data Analyst passionate about harnessing the power of data, I’ve worked on a variety of projects, using tools like **Excel**, **SQL**, **Python**, **Tableau**.
+Here you can find some of my projects as a Data Analyst, developed during my academic and professional journey.  
+As a Data Analyst passionate about harnessing the power of data, I’ve worked on a variety of projects, using tools like **Excel**, **SQL**, **Python**, **Tableau**.
 
 ---
 
 ## 👩‍🎓 About Me
 
-I’m a **Junior Data Analyst** passionate about providing **data-driven solutions** in **Aviation**, **Leisure**, **Real Estate**, and **Healthcare**, with a particular focus on minimizing environmental impact. Before transitioning into data analysis, I worked as a **Business Developer**, helping businesses improve their operations and growth strategies. I now focus on data analysis to create practical and strategic solutions.
+I’m a Business Developer with a **strong passion for data analysis** and for delivering data-driven solutions in the **transport, tourism, and infrastructure sectors** — with a particular focus on minimizing environmental impact.
+
+Before transitioning into data analysis, I worked as a **Business Developer**, helping organizations optimize their operations and growth strategies. Today, I combine my business development background with data analysis to design practical, strategic, and sustainable solutions.
 
 - 🔹 LinkedIn: [https://www.linkedin.com/in/crisafio/](https://www.linkedin.com/in/crisafio/)
 - 📫 Contact me: [bizcrisafio@gmail.com](mailto:bizcrisafio@gmail.com) 
